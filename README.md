@@ -4,7 +4,7 @@ Hi 👋 My name is Victor
 Software Developer & Crypto Investor
 ------------------------------------
 
-I have been working as a Software Developer in the back-end for a few years and really found a passion for projects with technological investments, portfolio management and AI Investing.
+I have been working as a Software Developer in the back-end for a few years and really found a passion for projects with technological investments, cyber security, ethical hacking, portfolio management and AI Investing.
 
 * 🌍  I'm based in Dublin.
 * 🧠  I'm learning Python & Databases.
